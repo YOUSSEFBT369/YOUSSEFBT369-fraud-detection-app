@@ -6,11 +6,7 @@
 - **Transactions analysées : 284,807**
 - **Taux de fraude : 0.1727%**
 
-## 📊 **DASHBOARD LIVE**
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bank-fraud-detector.streamlit.app)
-
-Fonctionnalités :
+### **Fonctionnalités**
 • 🤖 Modèle IA avec 98.7% de précision
 • 📊 Dashboard interactif temps réel  
 • 🧪 Testeur de transactions
