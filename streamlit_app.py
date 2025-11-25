@@ -206,3 +206,4 @@ st.sidebar.markdown("### 📊 Informations Système")
 st.sidebar.write(f"**Transactions chargées:** {len(df):,}")
 st.sidebar.write(f"**Features disponibles:** {len(df.columns) - 1}")
 
+# 
