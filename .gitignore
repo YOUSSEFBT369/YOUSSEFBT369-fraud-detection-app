@@ -5,3 +5,5 @@ __pycache__/
 .vscode/
 *.log
 
+creditcard.csv
+mon_premier_modele_anti_fraude.pkl
